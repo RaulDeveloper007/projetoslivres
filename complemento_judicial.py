@@ -1,4 +1,4 @@
-print("Olá, essa página objetiva, exclusivamente, calcular o valor correto de complemento de piso salarial dos técnicos em radiologia do município de Fortaleza \nque foram contemplados pelos efeitos da sentença do processo judicial número 0805265.59.2016.4.05.8100. ")
+print("Olá, esse programa objetiva, exclusivamente, calcular o valor correto de complemento de piso salarial dos técnicos em radiologia do município de Fortaleza \nque foram contemplados pelos efeitos da sentença do processo judicial número 0805265.59.2016.4.05.8100. ")
 
 vencimento = float(input('Digite o valor atual de seu vencimento: '))
 grat_rx = float(input('Digite o valor atual de sua gratificação de raiox - x: '))
